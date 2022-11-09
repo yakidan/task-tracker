@@ -9,10 +9,10 @@
 * Sort by name/description/status
 
 ### Add task
-![](static/insert task.gif)
+![insert task.gif](static/insert task.gif)
 ### Update task
-![](static/update task.gif)
+![update task.gif](static/update task.gif)
 ### Delete task
-![](static/delete task.gif)
+![delete task.gif](static/delete task.gif)
 ### Sort task
-![](static/sort task.gif)
+![sort task.gif](static/sort task.gif)
