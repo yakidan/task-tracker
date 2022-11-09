@@ -8,11 +8,11 @@
 * Update task
 * Sort by name/description/status
 
-### Add task
-![insert task.gif](static/insert task.gif)
-### Update task
-![update task.gif](static/update task.gif)
-### Delete task
-![delete task.gif](static/delete task.gif)
-### Sort task
-![sort task.gif](static/sort task.gif)
+Add task
+<img src="static/insert task.gif"/>
+Update task
+<img src="static/update task.gif"/>
+Delete task
+<img src="static/delete task.gif"/>
+Sort task
+<img src="static/sort task.gif"/>
